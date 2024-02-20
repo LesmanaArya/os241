@@ -20,4 +20,4 @@ ZCZC W02 90 L73 Gaming including Board Games
 ZCZC W02 5 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 200 L70 Studying for other courses.
 ZCZC W02 180 L80 Waching: Movie, YouTube, TV, Netflix, etc.
-ZCZC W02 5 L05 Quiz related including studying
+ZCZC W02 15 L05 Quiz related including studying
