@@ -23,7 +23,7 @@ ZCZC W02 180 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W02 15 L05 Quiz related including studying
 
 ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
-ZCZC W03 230 L09 Weekly Assignments
+ZCZC W03 235 L09 Weekly Assignments
 ZCZC W03 15 L03 GitHub and git related, including commit, push, pull
 ZCZC W03 200 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W03 120 L73 Gaming including Board Games
