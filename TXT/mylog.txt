@@ -22,9 +22,11 @@ ZCZC W02 200 L70 Studying for other courses.
 ZCZC W02 180 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W02 15 L05 Quiz related including studying
 
-ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
-ZCZC W03 235 L09 Weekly Assignments
-ZCZC W03 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 250 L09 Weekly Assignments
+ZCZC W03 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
 ZCZC W03 200 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W03 120 L73 Gaming including Board Games
 ZCZC W03 210 L84 Relax, Rest, Nap, and Sleep
