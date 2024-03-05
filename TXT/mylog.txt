@@ -32,6 +32,10 @@ ZCZC W03 120 L73 Gaming including Board Games
 ZCZC W03 210 L84 Relax, Rest, Nap, and Sleep
 
 ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
-ZCZC W04 180 L09 Weekly Assignments
-ZCZC W04 15 L03 GitHub and git related, including commit, push, pull
-ZCZC W04 90 L73 Gaming including Board Games
+ZCZC W04 190 L09 Weekly Assignments
+ZCZC W04 15 L01 SCELE/Discord related
+ZCZC W04 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 30 L05 Quiz related including studying
+ZCZC W04 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 120 L73 Gaming including Board Games
+ZCZC W04 180 L80 Waching: Movie, YouTube, TV, Netflix, etc.

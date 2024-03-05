@@ -10,3 +10,4 @@ permalink: LINKS/
 - [Virtual disk in VirtualBox](https://www.virtuatopia.com/index.php?title=Understanding_and_Configuring_VirtualBox_Virtual_Hard_Disks) --- More explanation about what virtual disk is, especially in VirtualBox
 - [Virtualization](https://www.hpe.com/emea_middle_east/en/what-is/storage-virtualization.html#:~:text=Virtual%20storage%20or%20logical%20storage,access%20and%20use%20the%20storage.) --- More about virtual storage and it's processes
 - [Pointer in C Programming](https://www.howtoforge.com/linux-c-programming-tutorial-part-19-pointers-and-arrays/#:~:text=Pointers%20are%20a%20special%20kind,store%20an%20address%20into%20it.) --- A simple tutorial about how to use pointer in C programming
+- [Shared Library Basics](https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html) --- Explanation about shared library from it's definition to making a basic shared library
