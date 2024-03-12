@@ -12,3 +12,4 @@ permalink: LINKS/
 - [Pointer in C Programming](https://www.howtoforge.com/linux-c-programming-tutorial-part-19-pointers-and-arrays/#:~:text=Pointers%20are%20a%20special%20kind,store%20an%20address%20into%20it.) --- A simple tutorial about how to use pointer in C programming
 - [Shared Library Basics](https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html) --- Explanation about shared library from it's definition to making a basic shared library
 - [SCP in Linux](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-how-to-securely-transfer-files-between-servers-with-scp) --- A tutorial about SCP command protocol to transfer files between remote, host, and another remote
+- [About Virtual Memory](https://www.spiceworks.com/tech/devops/articles/what-is-virtual-memory/) --- An interesting article that explains the basics of virtual memory
