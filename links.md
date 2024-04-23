@@ -15,3 +15,5 @@ permalink: LINKS/
 10. [About Virtual Memory](https://www.spiceworks.com/tech/devops/articles/what-is-virtual-memory/) --- An interesting article that explains the basics of virtual memory
 11. [Thread processes in CPU](https://socs.binus.ac.id/2020/12/13/thread-unit-pemanfaatan-cpu/) --- Explains about thread processes and it's usefulness in CPU and computer
 12. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/) --- How and what concurrency actually did in nowadays operating system
+13. [Process Synchronization](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/) --- Concepts about Synchronization in operating system
+14. [Deadlock in Operating System](https://www.shiksha.com/online-courses/articles/deadlock-in-the-operating-system/) --- Explains about what Deadlock is, the reason why deadlock occurs, and ways of handling it
