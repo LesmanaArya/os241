@@ -17,3 +17,5 @@ permalink: LINKS/
 12. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/) --- How and what concurrency actually did in nowadays operating system
 13. [Process Synchronization](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/) --- Concepts about Synchronization in operating system
 14. [Deadlock in Operating System](https://www.shiksha.com/online-courses/articles/deadlock-in-the-operating-system/) --- Explains about what Deadlock is, the reason why deadlock occurs, and ways of handling it
+15. [Process Scheduling in Operating System](https://www.youtube.com/watch?v=2h3eWaPx8SA) --- Some good video explanation about scheduling in OS
+16. [Bash Scripting in Linux](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/) --- Good resources about bash scripting to help me in LFS
