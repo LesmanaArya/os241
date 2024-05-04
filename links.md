@@ -19,3 +19,5 @@ permalink: LINKS/
 14. [Deadlock in Operating System](https://www.shiksha.com/online-courses/articles/deadlock-in-the-operating-system/) --- Explains about what Deadlock is, the reason why deadlock occurs, and ways of handling it
 15. [Process Scheduling in Operating System](https://www.youtube.com/watch?v=2h3eWaPx8SA) --- Some good video explanation about scheduling in OS
 16. [Bash Scripting in Linux](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/) --- Good resources about bash scripting to help me in LFS
+17. [BIOS and UEFI](https://www.freecodecamp.org/news/uefi-vs-bios/) --- Good explanation about BIOS and UEFI. I often hear those acronym but didn't really know what they're actually is
+18. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/) --- How OS actually related in memory management
